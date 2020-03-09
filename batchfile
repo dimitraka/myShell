@@ -1,0 +1,7 @@
+pwd
+ps
+ls -l
+touch hello
+ls && cat file
+ls ; cat file ; grep foo file2
+quit
